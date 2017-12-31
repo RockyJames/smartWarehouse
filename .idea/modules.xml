@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p1-SoftwareBase/p1-SoftwareBase.iml" filepath="$PROJECT_DIR$/p1-SoftwareBase/p1-SoftwareBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse.iml" filepath="$PROJECT_DIR$/warehouse.iml" />
+    </modules>
+  </component>
+</project>
